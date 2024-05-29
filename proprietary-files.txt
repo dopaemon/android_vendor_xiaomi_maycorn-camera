@@ -1,0 +1,8 @@
+# These proprietary files are extracted from Xiaomi 12S / 12S Pro
+
+-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo
+system/lib64/libgui_shim_miuicamera.so
+system/lib64/libcamera_algoup_jni.xiaomi.so
+system/lib64/libcamera_mianode_jni.xiaomi.so
+system/lib64/libmicampostproc_client.so
+system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
